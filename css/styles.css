@@ -1,0 +1,72 @@
+h1{
+  font-family: "Pacifico";
+}
+
+p{
+  font-family: "Bree Serif";
+}
+/* Navigation Section */
+
+#navigationBar{
+  font-family: "Bree Serif";
+  background-color: #293462;
+}
+
+/* Title Section */
+#title{
+  padding: 10%;
+  text-align: center;
+}
+
+.head-title{
+  padding: 2%;
+  font-family: "Pacifico";
+}
+
+
+/* Product Section */
+#products{
+  padding: 3%;
+  background-color: #D61C4E;
+  color: white;
+  padding-left: 3%;
+}
+
+.product-list{
+  font-family: "Bree Serif";
+}
+
+.product-item{
+  font-family: "Bree Serif";
+}
+
+.carousel-item {
+  width:640px;
+  height:360px;
+}
+
+/* About Us Section */
+
+#aboutUs{
+  background-color: #1CD6CE;
+}
+.aboutUsImage{
+  padding: 15%;
+}
+
+.aboutUsTitle{
+  padding-top: 5%;
+  margin-left: 10%;
+}
+
+.aboutUsInfo{
+  padding: 10%;
+}
+
+/* Contact Us Section */
+
+#contact{
+  background-color: #FEDB39;
+  padding: 5%;
+  text-align: center;
+}
