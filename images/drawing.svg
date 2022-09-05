@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <rect
+       id="rect50"
+       height="66.285467"
+       width="100.7128"
+       y="56.522491"
+       x="47.273356" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-height="786"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="431.14078"
+     inkscape:cx="115.24943"
+     inkscape:zoom="0.51491302"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="scale(0.96802194,1.0330344)"
+       id="text12"
+       y="75.368179"
+       x="52.204895"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.51389999999999958px;line-height:1.25;font-family:Copperplate;-inkscape-font-specification:'Copperplate Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1b237e;fill-opacity:1;stroke:none;stroke-width:0.889365;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.51388948999999684px;font-family:Copperplate;-inkscape-font-specification:'Copperplate Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.889365;fill:#1b237e;fill-opacity:1;"
+         y="75.368179"
+         x="52.204895"
+         id="tspan10"
+         sodipodi:role="line">K</tspan></text>
+    <text
+       id="text16"
+       y="94.513321"
+       x="63.451115"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.51389999999999958px;line-height:1.25;font-family:Copperplate;-inkscape-font-specification:'Copperplate Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1b237e;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.51389999999999958px;font-family:Copperplate;-inkscape-font-specification:'Copperplate Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#1b237e;fill-opacity:1;"
+         y="94.513321"
+         x="63.451115"
+         id="tspan14"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       id="text20"
+       y="109.28213"
+       x="80.50705"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.51389999999999958px;line-height:1.25;font-family:Copperplate;-inkscape-font-specification:'Copperplate Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1b237e;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.51389999999999958px;font-family:Copperplate;-inkscape-font-specification:'Copperplate Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#1b237e;fill-opacity:1;"
+         y="109.28213"
+         x="80.50705"
+         id="tspan18"
+         sodipodi:role="line">S</tspan></text>
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333000000032px;shape-inside:url(#rect50);white-space:pre;"
+       id="text48"
+       xml:space="preserve" />
+  </g>
+</svg>
