@@ -41,14 +41,19 @@ p{
 }
 
 .carousel-item {
-  width:640px;
-  height:360px;
+  padding: 10% 20%;
+
+}
+
+
+.carousel-inner {
+  margin: auto;
 }
 
 /* About Us Section */
 
 #aboutUs{
-  background-color: #1CD6CE;
+  /* background-color: #1CD6CE; */
 }
 .aboutUsImage{
   padding: 15%;
@@ -63,10 +68,19 @@ p{
   padding: 10%;
 }
 
+.waffleimage{
+  padding: 15%;
+  padding-left: 20%;
+}
+
 /* Contact Us Section */
 
 #contact{
   background-color: #FEDB39;
   padding: 5%;
   text-align: center;
+}
+
+.contactIcon {
+  padding: 1rem;
 }
