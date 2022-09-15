@@ -5,11 +5,19 @@ h1{
 p{
   font-family: "Bree Serif";
 }
+
+h3{
+  font-family: "Bree Serif"
+}
 /* Navigation Section */
 
 #navigationBar{
   font-family: "Bree Serif";
   background-color: #293462;
+}
+
+.navbar{
+  
 }
 
 /* Title Section */
@@ -56,7 +64,7 @@ p{
   /* background-color: #1CD6CE; */
 }
 .aboutUsImage{
-  padding: 15%;
+  padding: 5%;
 }
 
 .aboutUsTitle{
